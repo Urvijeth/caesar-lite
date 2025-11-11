@@ -13,11 +13,7 @@ It includes both a **Tkinter-based dark GUI** and a **command-line interface (CL
 
 ---
 
-![GUI Preview](img/project.jpg)
-<p align="center">
-  <img src="img/project.jpg" alt="Caesar-lite GUI Preview" width="600">
-</p>
-
+![GUI Preview](/img%20/project.jpg)
 
 ## Installation
 
